@@ -4591,7 +4591,8 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.LocalStorage.Cnds.OnItemMissing,
 		C3.Plugins.Audio.Acts.StopAll,
 		C3.Plugins.Audio.Acts.Play,
-		C3.Plugins.Audio.Acts.SetMuted
+		C3.Plugins.Audio.Acts.SetMuted,
+		C3.Plugins.System.Cnds.OnLoadFinished
 	];
 };
 self.C3_JsPropNameTable = [
