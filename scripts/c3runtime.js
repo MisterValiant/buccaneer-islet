@@ -4707,6 +4707,7 @@ self.C3_JsPropNameTable = [
 	{size: 0},
 	{bubbled: 0},
 	{loading_text: 0},
+	{Text: 0},
 	{ArrowSpikes: 0},
 	{controls: 0},
 	{screenshake_mag: 0},
